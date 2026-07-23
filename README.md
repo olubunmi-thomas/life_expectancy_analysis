@@ -45,8 +45,12 @@ By analyzing historical trends and future projections, we can explore difference
 - NumPy
 - Jupyter Notebook
 
-## Results
-Key insights and visualizations.
+## Key insights
+Global life expectancy has increased dramatically since the 1800s. 
+Africa has experienced substantial improvements over recent decades. 
+Developed regions continue to lead in life expectancy. 
+Healthcare, education, and economic development play a major role in improving longevity. 
+Historical trends suggest continued increases in life expectancy worldwide. 
 
 ## Author
 Thomas Oluwasegun Olubunmi
